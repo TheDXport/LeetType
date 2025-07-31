@@ -2,8 +2,6 @@
 
 LeetType is a typing speed practice app built with on **Next.js** with **TypeScript**. Practice common LeetCode algorithms in multiple programming languages with instant feedback on your speed and accuracy
 
-![Desktop only](public/window.svg)
-
 ## Features
 
 - **Algorithm typing practice** – choose from a selection of LeetCode problems and type the standard solutions in Java, Python, JavaScript or C++
